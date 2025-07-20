@@ -44,5 +44,5 @@ Interactive Filters: Dynamic slicers for:-
 📈 Outcome:-
 ->The dashboard simplifies sales tracking and enables faster decision-making. It can be regularly updated with new data and used by the sales and marketing teams for ongoing performance monitoring and strategy planning.
 
-📊 Preview of Dashboard is:-
+📊 Preview of Dashboard is:-https://github.com/kushalgupta15/Project-1-on-Excel-Dashboard/blob/main/Preview%20Gupta%20annual%20report.png
 
